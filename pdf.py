@@ -46,8 +46,6 @@ area_count_dic = {'Москва': 0.4581, 'Санкт-Петербург': 0.141
 
 
 
-pdf.cell(200, 10, txt="Привет", ln=1, align="C")
-pdf.image("fig1.png", w=200)
 
 
 pdf.cell(38, 5, "Год", border=1)
